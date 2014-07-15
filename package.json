@@ -1,5 +1,5 @@
 {
-  "name": "fanplayr-node",
+  "name": "fanplayr",
   "version": "1.0.0",
   "description": "Fanplayr Node Evironment Helper",
   "main": "index.js",
