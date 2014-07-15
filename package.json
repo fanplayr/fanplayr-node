@@ -1,6 +1,6 @@
 {
   "name": "fanplayr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fanplayr Node Evironment Helper",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fanplayr/fanplayr-node/issues"
   },
-  "homepage": "https://github.com/fanplayr/fanplayr-node"
+  "homepage": "https://github.com/fanplayr/fanplayr-node",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
